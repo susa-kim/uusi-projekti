@@ -2,4 +2,5 @@ Pizza
 Pasta
 Kebab
 Salad
-cola
+Cola
+Tea
