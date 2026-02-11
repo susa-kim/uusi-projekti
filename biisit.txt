@@ -7,4 +7,3 @@ Tea
 Hotdog
 PizzaPie 
 I love pizzapie
-I love pizzapie x2
